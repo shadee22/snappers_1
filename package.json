@@ -12,7 +12,6 @@
     "@nuxt/builder": "^2.15.8",
     "core-js": "^3.19.3",
     "cors": "^2.8.5",
-    "firebase": "^9.15.0",
     "firebase-admin": "^11.4.1",
     "nuxt": "^2.15.8",
     "vue": "^2.6.14",
